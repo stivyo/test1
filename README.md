@@ -8,4 +8,8 @@ cambio de las 7:12 13-08-2025
 cambio de las 7:06 14-08-2025
 cambio de las 7:12 14-08-2025
 cambio de las 7:1 14-08-2025
+<<<<<<< HEAD
 cambio de las 7:17 14-08-2025
+=======
+cambio web  de las 7:17 14-08-2025
+>>>>>>> c3929292425215875a7db82d5b46697c8e9e9aaf
